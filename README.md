@@ -33,4 +33,7 @@ or perhaps my own limited proficiency in English is to blame. I hope for your un
 [Don't Be Silly - 022](https://github.com/septemhill/DontBeSilly/blob/main/dont_be_silly_022.md)  
 [Don't Be Silly - 023](https://github.com/septemhill/DontBeSilly/blob/main/dont_be_silly_023.md)  
 [Don't Be Silly - 024](https://github.com/septemhill/DontBeSilly/blob/main/dont_be_silly_024.md)  
+[Don't Be Silly - 025_01](https://github.com/septemhill/DontBeSilly/blob/main/dont_be_silly_025_01.md)  
+[Don't Be Silly - 025_02](https://github.com/septemhill/DontBeSilly/blob/main/dont_be_silly_025_02.md)  
+[Don't Be Silly - 025_03](https://github.com/septemhill/DontBeSilly/blob/main/dont_be_silly_025_03.md)  
 
